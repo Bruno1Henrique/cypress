@@ -1,0 +1,12 @@
+{
+  "name": "formulario.js",
+  "version": "1.0.0",
+  "description": "conhecendo cypress",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "cy:open":"cypress open"
+  },
+  "author": "",
+  "license": "ISC"
+}
