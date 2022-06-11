@@ -13,6 +13,7 @@ context('Dev Finances Agilizei', () => {
     after > depois de todos os testes
     afterEach > depois de cada testes*/
 
+
     beforeEach(() => {
         cy.visit('https://devfinance-agilizei.netlify.app/#',{
             onBeforeLoad: (win) =>{
