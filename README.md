@@ -1,7 +1,3 @@
-# Formulário DEVs
+# Iniciando estudos em Cypress
 
-Formulário desenvolvido em HTML e CSS.
-
-## Tela Formulário
-
-[![](https://github.com/JuliaJPereira/Formulario-DEVs/blob/master/imagens/tela_formulario.png)]()
+Aula disponível em: https://www.youtube.com/watch?v=qI9IYmvC0ms
